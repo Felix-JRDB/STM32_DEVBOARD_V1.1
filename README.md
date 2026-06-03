@@ -91,10 +91,10 @@ STM32_DEVBOARD_V1.1/
 │   │   └── Gerbers.zip
 │   └── Schematics/
 │       └── STM32_DEVBOARD_Schematic.pdf
-└── images/
-    ├── 3d_isometric.png
-    ├── pcb_top_red.png
-    └── pcb_top_blue.png
+└── Images/
+    ├── Capture d'écran 2026-06-03 210806.png
+    ├── Capture d'écran 2026-06-03 210849.png
+    └── Capture d'écran 2026-06-03 211053.png
 ```
 
 ## Project Status
