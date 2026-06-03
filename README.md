@@ -10,8 +10,16 @@ Hardware/
 │   ├── STM32_DEVBOARD.SchDoc
 │   └── Gerbers.zip
 ├── Images/
-│   ├── PCB_Top.png
-│   ├── PCB_Bottom.png
-│   └── PCB_3D.png
+│   ├── Capture d'écran 2026-06-03 210806.png
+│   ├── Capture d'écran 2026-06-03 210849.png
+│   └── Capture d'écran 2026-06-03 211053.png
 └── README.md
 ```
+
+## Board Images
+
+![PCB View 1](Hardware/Images/Capture%20d%27écran%202026-06-03%20210806.png)
+
+![PCB View 2](Hardware/Images/Capture%20d%27écran%202026-06-03%20210849.png)
+
+![PCB View 3](Hardware/Images/Capture%20d%27écran%202026-06-03%20211053.png)
